@@ -16,7 +16,9 @@ h1{
 }
 #starters_image_div{
     text-align: center;
-    outline: 2px solid darkblue
+}
+img{
+    border: 3px solid darkblue
 }
 .each_pokemon_container{
     text-align: center;
@@ -29,6 +31,7 @@ h1{
     color: white;
 }
 .pokemon_images{
+    border: none;
     height:180px;
 }
 #bulbasaur_container{
